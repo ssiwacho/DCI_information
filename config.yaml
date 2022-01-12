@@ -1,0 +1,18 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: Design Thinking, Coaching, Innovative Classroom Designing
+params:
+  copyright: copyright by DCI, faculty of Education, Chulalongkorn University.
+  description: 
+  favicon: images/dci.png
+  images: images/cover2.jpeg
+  meta:
+    keywords: Design Thinking, Coaching, Innovative Classroom Designing
+  title: Design Thinking, Coaching, Innovative Classroom Designing
